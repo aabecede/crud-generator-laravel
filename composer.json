@@ -1,5 +1,5 @@
 {
-    "name": "mrdebug/crudgen",
+    "name": "mrdebug/crudgen-overwrite-by-aabecede",
     "description": "Create a Laravel Crud in a few seconds",
     "license": "MIT",
     "keywords": [
@@ -21,6 +21,10 @@
         {
             "name": "Jonathan Escarem",
             "email": "contact@escarem-jonathan.fr"
+        },
+        {
+            "name": "aabecede",
+            "email": "aabdul.jabbar1301@gmail.com"
         }
     ],
     "require":
@@ -31,7 +35,7 @@
     {
         "psr-4":
         {
-            "Mrdebug\\Crudgen\\": "src/"
+            "Aabecede\\Crudgen\\": "src/"
         }
     },
     "extra":
@@ -40,7 +44,7 @@
         {
             "providers":
             [
-                "Mrdebug\\Crudgen\\CrudgenServiceProvider"
+                "Aabecede\\Crudgen\\CrudgenServiceProvider"
             ]
         }
     }
