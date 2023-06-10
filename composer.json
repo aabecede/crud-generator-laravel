@@ -1,0 +1,19 @@
+{
+    "name": "aabecede/crudgen",
+    "description": "CRUD GENERATOR LARAVEL",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aabecede",
+            "email": "aabdul.jabbar1301@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Aabecede\\Crudgen\\": "src/"
+        }
+    },
+    "require": {}
+}
